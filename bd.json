@@ -1,0 +1,407 @@
+{
+  "Hamburguesas": [
+    {
+      "id": "1",
+      "nombre": "La Peso Pesado",
+      "descripcion": "Hamburguesa Doble con queso La Peso Pesado",
+      "contenido":"Prueba nuestra deliciosa y contundente hamburguesa doble La Peso Pesado! Hecha con:Dos hamburguesas a la parrilla regular, Queso, Lechuga, Mayonesa Bembos",
+      "precio": 11.90,
+      "img":"./img/peso-pesado.webp",
+      "categoria": "Hamburguesas"
+    },
+    {
+        "id": "2",
+        "nombre": "Hamburguesa Clásica Benbos",
+        "descripcion": "Hamburguesa Clásica a la Parrilla",
+        "contenido":" hamburguesa a la parrilla clásica Bembos Con su delicioso sabor ahumado y consistencia característica, este clásico Bembos lleva como ingredientes:Mayonesa, Tomate, Lechuga",
+        "precio": 16.90,
+        "img":"./img/pclasica_bembos.webp",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id": "3",
+        "nombre": "Hamburguesa Cheese",
+        "descripcion": "Hamburguesa a la Parrilla Con Queso",
+        "contenido":" Deliciosa Hamburguesa con Queso. ¡Una de las favoritas! Entre sus ingredientes encontramos:Hamburguesa de Carne a la Parrilla, Queso Edam, Mayonesa, Tomate, Lechuga, Además incluye Mayonesa (01), Ketchup (01), Ají Bembos (x1)",
+        "precio": 18.90,
+        "img":"./img/cheese.webp",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id": "4",
+        "nombre": " Hamburguesa Bembos Queso Tocino",
+        "descripcion": "Hamburguesa Bembos con queso y tocino",
+        "contenido":" La Hamburguesa Bembos preferida por la mayoría: Una rica combinación de Hamburguesa con Queso y Doble Tocino, uno de los clásicos por excelencia. Ingredientes:Hamburguesa a la parrilla, Doble Tocino, Queso Edam, Mayonesa, Lechuga, Tomate",
+        "precio": 19.90,
+        "img":"./img/queso_tocino.webp",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id": "5",
+        "nombre": "Hamburguesa Royal",
+        "descripcion": "Hamburguesa Royal con Queso y Huevo",
+        "contenido":"¿Con antojo de una royal clásica? Disfruta de nuestra deliciosa Hamburguesa Royal Bembos.Ingredientes:Hamburguesa de Carne a la parrilla,Huevo,Queso Edam,Mayonesa,Lechuga,Tomate",
+        "precio": 19.90,
+        "img":"./img/royal.webp",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id": "6",
+        "nombre": "Hamburguesa Churrita",
+        "descripcion": "Hamburguesa Royal con Queso y Huevo",
+        "contenido":"¡Disfruta de una de la famosa Hamburguesa Churrita Bembos, la más jugosas hamburguesas de carne a la parrilla! Acompañada de mayonesa de chimichurri y el característico sabor y aroma a parrilla, es toda una experiencia probarla.Ingredientes:Hamburguesa de carne a la parrilla, Tocino, Papas al hilo, Mayonesa de Chimichurri",
+        "precio": 20.90,
+        "img":"./img/churrita.webp",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id": "7",
+        "nombre": "Hamburguesa A lo Pobre",
+        "descripcion": "Hamburguesa a Lo Pobre con Plátano y Huevo Frito",
+        "contenido":"¡Prueba la Bembos más peruana de todas! Disfruta de tu Hamburguesa a lo Pobre preferida, hecha en parrilla y con ese sabor casero que la caracteriza.Ingredientes:Hamburguesa de Carne, Huevo Frito, Plátano Frito, Mayonesa, Tomate, Cebolla Blanca",
+        "precio": 20.90,
+        "img":"./img/a_lo_pobre.webp",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id": "8",
+        "nombre": "Alemana",
+        "descripcion": "Alemana",
+        "contenido":"Hamburguesa a la parrilla, mayonesa Bembos, papas al hilo, pepinillo dulce y salsa Chucrut.",
+        "precio": 20.90,
+        "img":"./img/alemana.webp",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id": "9",
+        "nombre": " Hamburguesa Parrillera",
+        "descripcion": "Hamburguesa Parrillera Con Chorizo y Chimichurri",
+        "contenido":"Prueba nuestra deliciosa Hamburguesa Parrillera Bembos con Chorizo y Chimichurri, pensada para los amantes de la carne. Con el característico aroma a parrilla, incluye entre sus ingredientes:Hamburguesa de Carne, Chorizo, Tomate, Salsa chimichurri, Mostaza",
+        "precio": 23.90,
+        "img":"./img/parrillera.webp",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id": "10",
+        "nombre": "  Hamburguesa La Carretillera",
+        "descripcion": "Hamburguesa de carne con pollo deshilachado: La Carretillera",
+        "contenido":"Deliciosa hamburguesa de carne a la parrilla con pollo deshilachado, salsa tártara y papitas al hilo. Incluye: Mayonesa x1, Ketchup x1, Ají Bembos x1",
+        "precio": 23.90,
+        "img":"./img/carretillera.webp",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id": "11",
+        "nombre": "La Cocona",
+        "descripcion": "La Cocona",
+        "contenido":"Hamburguesa de res, plátano, jamón ahumado, cebolla, salsa de cocona, lechuga y mayonesa Bembos.",
+        "precio": 23.90,
+        "img":"./img/cocona.webp",
+        "categoria": "Hamburguesas"
+      },
+      {
+        "id": "12",
+        "nombre": "Hamburguesa Extrema",
+        "descripcion": "Hamburguesa doble carne a la parrilla con queso Bembos Extrema",
+        "contenido":"Te presentamos a la más contundente de todas: La Bembos Extrema. La hamburguesa de doble carne a la parrilla que entre sus ingredientes encontramos:Doble carne a la parrilla, Queso Edam, Tocino, Tomate, Lechuga, Mayonesa x1, Ketchup x1, Ají Bembos x1",
+        "precio": 25.90,
+        "img":"./img/extrema.webp",
+        "categoria": "Hamburguesas"
+      }
+  ],
+  "pollo": [
+    {
+        "id": "1",
+        "nombre": "Bembroster clasica",
+        "descripcion": "Bembroster clasica",
+        "contenido":"Sandwich regular de pollo crocante, mayonesa, lechuga y tomate. Mayonesa x1, Ketchup x1, Ají Bembos x1",
+        "precio": 10.90,
+        "img":"./img/bembroster-clasica.webp",
+        "categoria": "pollo"
+        
+    },
+    {
+        "id": "2",
+        "nombre": " Bembroster Tártara",
+        "descripcion": "Sandwich de Pollo Crujiente Bembroster con Tártaraa",
+        "contenido":"Nuestro delicioso sandwich de pollo con salsa tártara Bembroster. Contiene:Pollo broaster crujiente, Papas fritas, Lechuga",
+        "precio": 11.90,
+        "img":"./img/bembroster_tartara.webp",
+        "categoria": "pollo"
+        
+    },
+    {
+        "id": "3",
+        "nombre": "Bembroster Queso Tocino",
+        "descripcion": "Sandwich de Pollo Bembroster con Queso y Tocino",
+        "contenido":"Prueba nuestro delicioso y crocante sandwich de pollo Bembroster. Viene acompañada de:queso edam, tocino, mayonesa lechuga y tomate.",
+        "precio": 12.90,
+        "img":"./img/bembroster-queso-tocino.webp",
+        "categoria": "pollo"
+        
+    }
+    {
+        "id": "4",
+        "nombre": "Bembos Chicken Grill",
+        "descripcion": "Sandwich de pollo a la parrilla",
+        "contenido":"Delicioso Sandwich de Pechuga de pollo a la parrilla, Entre sus ingredientes encontramos:Pollo marinado a la parrilla, Lechuga, Tomate, Mayonesa",
+        "precio": 16.90,
+        "img":"./img/chicken-girll.webp",
+        "categoria": "pollo"
+        
+    }
+  ],
+  "loncheritas": [
+    {
+        "id": "1",
+        "nombre": " Loncherita Básica",
+        "descripcion": "Loncherita Básica",
+        "contenido":"1 Hamburguesa básica regular, 1 Papa Regular y 1 Frugo",
+        "precio": 10.90,
+        "img":"./img/loncherita-basica_1.webp",
+        "categoria": "loncheritas"
+        
+    },
+    {
+        "id": "2",
+        "nombre": "  Loncherita Nuggets",
+        "descripcion": "Loncherita Nuggets",
+        "contenido":"Nuggets x4, 1 Papa Regular y 1 Frugo",
+        "precio": 11.90,
+        "img":"./img/loncherita-nuggets_1.webp",
+        "categoria": "loncheritas"
+        
+    },
+    {
+        "id": "3",
+        "nombre": "Loncherita básica de pollo",
+        "descripcion": "Loncherita básica de pollo",
+        "contenido":"1 Hamburguesa de pollo regular, 1 Papa Regular y 1 Frugo",
+        "precio": 10.90,
+        "img":"./img/loncherita-basica-pollo.webp",
+        "categoria": "loncheritas"
+        
+    }
+  ],
+  "complementos": [
+    {
+        "id": "1",
+        "nombre": " Papas Inka Chips",
+        "descripcion": "Papas Inka Chips",
+        "contenido":"Crujientes papas fritas con sabor a hamburguesa Bembos a la parrilla! Presentación de 30gr y 120 gr.",
+        "porcion":[
+                    {
+                    "id":"1",
+                    "precio": 3.90
+                    }
+                    ],
+        "img":"./img/inka-chips-nueva.webp",
+        "categoria": "complementos"
+        
+    },
+    {
+        "id": "2",
+        "nombre": " Papas Fritas Bembos",
+        "descripcion": "Papas Fritas Bembos",
+        "contenido":"¡Nuestras crujientes papas fritas! No olvides agrandarlas con las opciones debajo: ",
+        "porcion":[{ 
+                    "id":"1",
+                    "size":"Mediana",
+                    "precio":"4.90"
+                },
+                 {
+                    "id":"2",
+                    "size":"Grande",
+                    "precio":"5.90"
+
+                 },
+                 {
+                    "id":"3",
+                    "size":"Papa familiar",
+                    "precio":"9.90"
+
+                 }
+                ],
+        "img":"./img/papas-fritas_2.webp",
+        "categoria": "complementos"
+        
+    },
+    {
+        "id": "3",
+        "nombre": "Chicken nuggets",
+        "descripcion": "Chicken nuggets",
+        "contenido":"Nuggets",
+        "porcion":[{ 
+                    "id":"1",
+                    "cantidad":"6 nuggets",
+                    "precio":"10.50"
+                },
+                 {
+                    "id":"2",
+                    "cantidad":"9 nuggets",
+                    "precio":"11.90"
+
+                 }
+                ],
+        "img":"./img/nuggets_9.webp",
+        "categoria": "complementos"
+        
+    },
+    {
+        "id": "4",
+        "nombre": "Cheese Fingers",
+        "descripcion": "Cheese Fingers",
+        "contenido":"Perfectos para acompañar tu hamburguesa a la parrilla :Prueba unos ricos deditos de queso: En presentación de 4, 6 o 9 Cheese Fingers. Trozos alargados de queso mozzarella fritos para acompañar tu hamburguesa favorita. Mayonesa x1, Ketchup x1, Ají Bembos x1",
+        "porcion":[{ 
+                    "id":"1",
+                    "cantidad":"4 Cheese Fingers",
+                    "precio":"11.90"
+                },
+                 {
+                    "id":"2",
+                    "cantidad":"6 Cheese Fingers",
+                    "precio":"14.90"
+                 },{
+                    "id":"3",
+                    "cantidad":"9 Cheese Fingers",
+                    "precio":"16.90"
+                 }
+                ],
+        "img":"./img/cheese-fingers_3.webp",
+        "categoria": "complementos"
+        
+    },
+    {
+        "id": "5",
+        "nombre": "Family Box Piqueo",
+        "descripcion": "Family Box Piqueo",
+        "contenido":"Nugget x 6 +Cheese finger x 4 + papa menú",
+        "porcion":[{ 
+                    "id":"1",
+                    "precio":"22.90"
+                }
+                ],
+        "img":"./img/piqueo-nuevo-abril.webp",
+        "categoria": "complementos"
+        
+    }
+  ],
+  
+  "bebidas": [
+    {
+        "id": "1",
+        "nombre": "Agua San Luis S/A",
+        "descripcion": "Agua San Luis S/A",
+        "contenido":"Si quieres un combo más saludable Bembos te da la opción de agregar como bebida el Agua mineral San Luis de 625 ml",
+        "precio": 4.90,
+        "img":"./img/agua-san-luis.webp",
+        "categoria": "bebidas"
+        
+    },
+    {
+        "id": "2",
+        "nombre": "  Fanta Sabor Original 500 ml",
+        "descripcion": "Fanta Sabor Original 500 ml",
+        "contenido":"Acompaña tu combo con Fanta Sabor Original de 500 ml. ",
+        "precio": 5.90,
+        "img":"./img/fanta_3.webp",
+        "categoria": "bebidas"
+        
+    },
+    {
+        "id": "3",
+        "nombre": "Sprite Sabor Original 500 ml",
+        "descripcion": "Sprite Sabor Original 500 ml",
+        "contenido":"Sprite Sabor Original 500 ml",
+        "precio": 5.90,
+        "img":"./img/sprite_4.webp",
+        "categoria": "bebidas"
+        
+    },
+    {
+        "id": "4",
+        "nombre": "Inca kola Sin Azúcar 500 ml",
+        "descripcion": "Inca kola Sin Azúcar 500 ml",
+        "contenido":"Inca kola Sin Azúcar 500 ml",
+        "precio": 4.90,
+        "img":"./img/inca-kola-sin-azucar_3.webp",
+        "categoria": "bebidas"
+        
+    },
+    {
+        "id": "5",
+        "nombre": "Inca kola  500 ml",
+        "descripcion": "Inca kola  500 ml",
+        "contenido":"Inca kola  500 ml",
+        "precio": 4.90,
+        "img":"./img/inca-kola-original_3.webp",
+        "categoria": "bebidas"
+        
+    },
+    {
+        "id": "6",
+        "nombre": "Coca Cola Sin Azúcar 500 ml",
+        "descripcion": "Coca Cola Sin Azúcar 500 ml",
+        "contenido":"Si quieres hacer tu combo más saludable Bembos te da la opción de agregar como bebida Coca Cola Sin Azúcar de 500 ml. ",
+        "precio": 5.90,
+        "img":"./img/coca-cola-sin-azucar_3.webp",
+        "categoria": "bebidas"
+        
+    },
+    {
+        "id": "7",
+        "nombre": "Coca Cola Sabor Original 500 ml",
+        "descripcion": "Coca Cola Sabor Original 500 ml",
+        "contenido":"Acompaña tu combo con Coca Cola sabor original de 500 ml.",
+        "precio": 5.90,
+        "img":"./img/coca-cola-original_3.webp",
+        "categoria": "bebidas"
+        
+    }
+  ],
+  "helados": [
+    {
+        "id": "1",
+        "nombre": "Helado Mini Princesa",
+        "descripcion": "Helado Mini Princesa",
+        "contenido":"Helado Mini Princesa",
+        "precio": 3.90,
+        "img":"./img/mini-princesa_3.webp",
+        "categoria": "helados"
+        
+    },
+    {
+        "id": "2",
+        "nombre": " Choco Mani",
+        "descripcion": "Choco Mani",
+        "contenido":"Helado de vainilla con maní, cobertura de chocolate y fudge.",
+        "precio": 11.90,
+        "img":"./img/choco-mani-nuevo-mayo-800x80.webp",
+        "categoria": "helados"
+        
+    },
+    {
+        "id": "3",
+        "nombre": "Helado Princesa",
+        "descripcion": "Helado Princesa",
+        "contenido":"Helado de vainilla con trozos de chocolate princesa y fudge.",
+        "precio": 11.90,
+        "img":"./img/800x800-princesa-nuevo-abril.webp",
+        "categoria": "helados"
+        
+    }
+  ],
+  "inka-chips": [
+    {
+        "id": "1",
+        "nombre": "inka-chips",
+        "descripcion": "inka-chips",
+        "contenido":"inka-chips",
+        "precio": 3.00,
+        "img":"./img/800x1370-inka-chips-nueva.webp",
+        "categoria": "inka chips"
+        
+    }
+  ]
+
+}
