@@ -1,5 +1,80 @@
 {
-  "Hamburguesas": [
+    "promociones": [
+        {
+          "id": "1",
+          "nombre": " Combo Tártara",
+          "descripcion": "Combo Tártara: Hamburguesa con salsa tártara + papas fritas ",
+          "contenido":"Pide tu Combo Tártara Bembos ya. Disfruta de tu Hamburguesa preferida con nuestra Tártara Bembos especial a un precio único.Incluye:1 Hamburguesa Tártara Regular: Papas al hilo, carne a la parrilla y salsa tártara. 1 Papas Fritas Regular",
+          "precio":11.90 ,
+          "img":"./img/combo-tartara.webp",
+          "categoria": "promociones"
+        },
+        {
+            "id": "2",
+            "nombre": "Combo Cheese",
+            "descripcion": "Combo Cheese: Hamburguesa con queso con papas",
+            "contenido":" Disfruta de una clásica hamburguesa a la parrilla con queso, lechuga y tomate. Acompañada de unas papas fritas medianas. Agrándalas y disfruta con la bebida de tu elección.Mayonesa x1, Ketchup x1, Ají Bembos x1",
+            "precio": 11.90,
+            "img":"./img/combo-cheese-800x800.webp",
+            "categoria": "promociones"
+          },
+          {
+            "id": "3",
+            "nombre": "35% dto A lo Pobre + Inca Kola",
+            "descripcion": "35% dto A lo Pobre + Inca Kola",
+            "contenido":"1 A lo pobre mediana + 1 Inca Kola de regalo",
+            "precio": 13.90,
+            "img":"./img/800x800-a-lo-pobre-gaseosa.webp",
+            "categoria": "promociones"
+          },
+          {
+            "id": "4",
+            "nombre": "Combo Nuggets de Pollo",
+            "descripcion": "Combo Nuggets de Pollo",
+            "contenido":"Pide ahora unos deliciosos y crujientes Nuggets de Pollo. Tu Combo de Nuggets con deliciosas cremas que no pueden faltar.",
+            "precio": 14.90,
+            "img":"./img/combo-nuggets-pollo.webp",
+            "categoria": "promociones"
+          },
+          {
+            "id": "5",
+            "nombre": "Personal Clásico",
+            "descripcion": "Combo Personal Clásico: Hamburguesa Clásica con Papas",
+            "contenido":"¡Llévate tu clásica hamburguesa con papas! Incluye:1 Hamburguesa a la Parrilla Clásica Mediana, Papas Medianas, Mayonesa x2, Ketchup x2, Ají Bembos x2",
+            "precio": 15.90,
+            "img":"./img/personal-clasico_3.webp",
+            "categoria": "promociones"
+          },
+          {
+            "id": "6",
+            "nombre": "Promo Churrita: Combo de hamburguesa Churrita",
+            "descripcion": "Combo Personal Clásico: Hamburguesa Clásica con Papas",
+            "contenido":"¡Disfruta de nuestra famosa hamburguesa con mayonesa de chimichurri con la promo Churrita! Contiene:1 Hamburguesa Churrita regular, papas regulares, 1 gaseosa de 500 ml",
+            "precio": 16.90,
+            "img":"./img/promo-churrita_3.webp",
+            "categoria": "promociones"
+          },
+          {
+            "id": "7",
+            "nombre": "Queso tocino regular",
+            "descripcion": "Queso tocino regular",
+            "contenido":"1 Queso tocino regular, 1 papa regular",
+            "precio": 20.80,
+            "img":"./img/800x800-queso-tocino-papas-nuevo-mayo.webp",
+            "categoria": "promociones"
+          },
+          {
+            "id": "8",
+            "nombre": "Cheesy Tartara",
+            "descripcion": "Cheesy Tartara",
+            "contenido":"¡El mejor combo de hamburguesas en una solo promoción! Disfruta del Combo Cheessy Tártara, que se caracteriza por incluir una exquisita Hamburguesa en salsa tártara + una Hamburguesa con queso, estas dos deliciosas hamburguesas en oferta, sí, dos hamburguesas a un cómodo precio. Incluye: Hamburguesa Cheese: Carne a la parrilla, queso edam derretido, papas al hilo, tomate y lechuga. 1 Hamburguesa en salsa tártara: Carne a la parrilla, papas al hilo y salsa tártara. 2 Papas regulares (con opción a incremento).Clásicas salsas Bembos.",
+            "precio": 22.90,
+            "img":"./img/800x800-combo-cheese-tartara-nuevo-abril.webp",
+            "categoria": "promociones"
+          }
+        ],
+
+  "hamburguesas": [
     {
       "id": "1",
       "nombre": "La Peso Pesado",
