@@ -203,8 +203,19 @@ align-items: center;
         display: block;
     }
     /*--------------*/
-
+    .special-offers{
+        width: 90%;
+    }
     .special-offers-title h2{
         font-size: 13px;
     }
+
+    .general-box{
+        display: flex;
+        gap: 10px;
+        margin: 0;
+        justify-content: start;
+        /* overflow: hidden; */
+        overflow: hidden;
+   
 }

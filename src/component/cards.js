@@ -43,7 +43,7 @@ export function carruself(left,rigth,cardsoffers){
         if(e.target.matches(left)|| e.target.matches(`${left} *`)){
             console.log("izquierda")
             console.log(juntar)
-            cardsoffers.style.transform = `${juntar}`;
+            cardsoffers.style.transform = '';
         
         }
         if(e.target.matches(rigth)|| e.target.matches(`${rigth} *`)){
