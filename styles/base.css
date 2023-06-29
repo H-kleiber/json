@@ -188,6 +188,9 @@ align-items: center;
     .container__info{
         display: none;
     }
+    .navegacion{
+         width: 100%;
+    }
     .menu{
         display: flex;
         justify-content: center;
@@ -198,5 +201,10 @@ align-items: center;
     }
     .menu-img{
         display: block;
+    }
+    /*--------------*/
+
+    .special-offers-title h2{
+        font-size: 13px;
     }
 }

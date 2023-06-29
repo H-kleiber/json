@@ -4,11 +4,14 @@
 .special-offers-title{
 display: flex;
 height: 70px;
-min-width: 600px;
+
 justify-content: space-between;
 align-items: center;
 /* border: 1px solid black; */
 
+}
+..special-offers-title h2{
+font-size: 15px;
 }
 .buttons-carruself{
 display: flex;
