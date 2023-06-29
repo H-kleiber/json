@@ -1,0 +1,90 @@
+:root{
+    --colorfontscards:#030819;
+}
+.special-offers-title{
+display: flex;
+height: 70px;
+min-width: 600px;
+justify-content: space-between;
+align-items: center;
+/* border: 1px solid black; */
+
+}
+.buttons-carruself{
+display: flex;
+width: 100px;
+height: 50px;
+gap: 5px;
+/* border: 1px solid black; */
+}
+.buttonoffers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 50%;
+}
+.special-offers{
+    
+    width: 80%;
+    /* border: 1px solid black; */
+}
+.general-box{
+  display: flex;
+  gap: 40px;
+  justify-content: start;
+  /* overflow: hidden; */
+  overflow: hidden;
+}
+.cardsoffers{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    box-shadow: 0 0 2px 1px rgba(0,0,0,.2);
+    width: 230px;
+    height: 350px;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: all 5s ease;
+    transform: translateX(-112%);
+}
+.cardsoffers img{
+    width: 100%;
+
+}
+.nombre{
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    font-size: 14px;
+    color: var(--colorfontscards);
+    font-size: 15px;
+    font-family: din1451;
+    line-height: 22px;
+}
+.precio{
+    text-align: center;
+    width: 100%;
+    height: 25px;
+    color: var(--colorfontscards);
+    font-size: 15px;
+    font-family: din1451;
+    line-height: 22px;
+
+}
+.button_comprar{
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+    background-color: var(--colorbuttonscards);
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: din1451;
+    outline: 0;
+}
